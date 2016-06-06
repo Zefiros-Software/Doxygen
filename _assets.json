@@ -1,14 +1,16 @@
-{
-    "filter": "system:windows",
-    "do": [
-        {"urls": [
-            {
-                "url": "downloads.sourceforge.net/project/doxygen/rel-1.8.11/doxygen-1.8.11.windows.x64.bin.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fdoxygen%2Ffiles%2Frel-1.8.11%2F&ts=1465211056&use_mirror=jaist",
-                "to": "bin"
-            }
-        ]},
-        {"files": [
-            "bin/*"
-        ]}
-    ]
-}
+[
+    {
+        "filter": "system:windows",
+        "do": [
+            {"urls": [
+                {
+                    "url": "downloads.sourceforge.net/project/doxygen/rel-1.8.11/doxygen-1.8.11.windows.x64.bin.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fdoxygen%2Ffiles%2Frel-1.8.11%2F&ts=1465211056&use_mirror=jaist",
+                    "to": "bin"
+                }
+            ]},
+            {"files": [
+                "bin/*"
+            ]}
+        ]
+    }
+]
