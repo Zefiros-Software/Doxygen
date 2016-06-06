@@ -1,6 +1,6 @@
 [
     {
-        "filter": "system:windows",
+        "system": "windows",
         "do": [
             {"urls": [
                 {
