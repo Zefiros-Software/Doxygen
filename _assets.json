@@ -6,6 +6,10 @@
                 {
                     "url": "http://heanet.dl.sourceforge.net/project/doxygen/rel-1.8.11/doxygen-1.8.11.windows.x64.bin.zip",
                     "to": "bin"
+                },
+                {
+                    "url": "http://heanet.dl.sourceforge.net/project/doxygen/rel-1.8.11/doxygen-1.8.11.windows.x64.bin.zip",
+                    "to": "graphviz"
                 }
             ]},
             {"files": [ "hhc.exe" ]}
