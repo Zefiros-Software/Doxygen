@@ -8,7 +8,7 @@
                     "to": "bin"
                 },
                 {
-                    "url": "http://heanet.dl.sourceforge.net/project/doxygen/rel-1.8.11/doxygen-1.8.11.windows.x64.bin.zip",
+                    "url": "www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.38.zip",
                     "to": "graphviz"
                 }
             ]},
