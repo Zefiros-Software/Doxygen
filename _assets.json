@@ -12,7 +12,7 @@
                     "to": "graphviz"
                 }
             ]},
-            {"files": [ "hhc.exe" ]}
+            {"files": [ "hhc.exe", "hha.dll" ]}
         ]
     }
 ]
